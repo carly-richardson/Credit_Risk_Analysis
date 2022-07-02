@@ -18,3 +18,5 @@ The following models are used in the technical analyses:
 <img width="724" alt="Screen Shot 2022-07-02 at 4 20 09 PM" src="https://user-images.githubusercontent.com/100643519/177016453-7b4b4c0c-3473-42e2-a3cd-4457d06e91c5.png">
 
 ### Undersampling
+<img width="351" alt="Screen Shot 2022-07-02 at 4 29 56 PM" src="https://user-images.githubusercontent.com/100643519/177016666-ea3b965c-92cf-4ac7-b86d-18f93b4b8936.png">
+<img width="717" alt="Screen Shot 2022-07-02 at 4 30 09 PM" src="https://user-images.githubusercontent.com/100643519/177016668-f632e4a3-5727-42d7-8c7a-1f0b4306f36f.png">
