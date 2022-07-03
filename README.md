@@ -52,3 +52,4 @@ The following models were used in the technical analyses:
 <img width="721" alt="Screen Shot 2022-07-02 at 4 40 07 PM" src="https://user-images.githubusercontent.com/100643519/177016873-36df67c3-dcd2-411e-a36d-8974d7c16203.png">
 
 ## Summary
+In all the models I used, the precision measures for high-risk credit applicants were very low. This means that there is a high chance of false positives. False positives are not a big concern, because there is no negative affect on credit companies for falsely denying low-risk applicants. The recall is a more important metric in detecting credit risk because we are more concerned with false negatives. A low recall measure would mean that our model is more likely to predict that someone is not going to default, but they do. Given this information, I would recommend the use of the Easy Ensemble Classifier model because the recall measure for high-risk applicants was 94%.
