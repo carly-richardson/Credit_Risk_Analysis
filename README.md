@@ -10,18 +10,20 @@ The following models were used in the technical analyses:
   
 ## Results
 ### Naive Random Oversampling
-<img width="453" alt="Screen Shot 2022-07-02 at 4 17 54 PM" src="https://user-images.githubusercontent.com/100643519/177043842-a879a374-63ef-4298-b83c-9c1b5fc97f28.png">
-
   - The balanced accuracy score was 63%.
-  
-  <img width="721" alt="Screen Shot 2022-07-02 at 4 18 18 PM" src="https://user-images.githubusercontent.com/100643519/177016422-df1236c8-147d-4c3b-a7dc-380fa980e45f.png">
+  <img width="453" alt="Screen Shot 2022-07-02 at 4 17 54 PM" src="https://user-images.githubusercontent.com/100643519/177046645-26df3fd6-c92d-41a6-a77b-8d87097188fa.png">
   
   - The precision for high-risk was 1% and the precision for low-risk was 100%.
   - The recall for high-risk was 61% and the recall for low-risk was 66%.
-  
+  <img width="721" alt="Screen Shot 2022-07-02 at 4 18 18 PM" src="https://user-images.githubusercontent.com/100643519/177046659-34d39b36-40e3-428e-870f-9a77cc1322a1.png">
+
 ### SMOTE Oversampling
-<img width="362" alt="Screen Shot 2022-07-02 at 4 19 55 PM" src="https://user-images.githubusercontent.com/100643519/177016451-3be5be0f-bd32-4723-a0f7-79c4c40bdaaa.png">
-<img width="724" alt="Screen Shot 2022-07-02 at 4 20 09 PM" src="https://user-images.githubusercontent.com/100643519/177016453-7b4b4c0c-3473-42e2-a3cd-4457d06e91c5.png">
+  - The balanced accuracy score was 66%.
+  <img width="362" alt="Screen Shot 2022-07-02 at 4 19 55 PM" src="https://user-images.githubusercontent.com/100643519/177016451-3be5be0f-bd32-4723-a0f7-79c4c40bdaaa.png">
+  
+  - The precision for high-risk was 1% and the precision for low-risk was 100%.
+  - The recall for high-risk was 63% and the recall for low-risk was 68%.
+  <img width="724" alt="Screen Shot 2022-07-02 at 4 20 09 PM" src="https://user-images.githubusercontent.com/100643519/177016453-7b4b4c0c-3473-42e2-a3cd-4457d06e91c5.png">
 
 ### Undersampling
 <img width="351" alt="Screen Shot 2022-07-02 at 4 29 56 PM" src="https://user-images.githubusercontent.com/100643519/177016666-ea3b965c-92cf-4ac7-b86d-18f93b4b8936.png">
